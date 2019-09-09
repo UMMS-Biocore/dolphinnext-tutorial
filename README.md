@@ -107,7 +107,7 @@ Once logged in, click on the pipeline tab in the top left of the screen to acces
 
 **What is a "process"?**
 ------------------
-Process is a basic programming element in nextflow to run user scripts. It usually have input, output parameters and script section. In this tutorial, you will see necesseary information to define a process shown in the left side of picture below. All that information need to be filled in "Add new process" screen shown in the middle in the picture below. DolphinNext will than convert this information to a nextflow process shown in the left side of the picture. Once a process created, it can be used in the pipeline builder. The example how it looks is shown in bottom left side in the picture. The mapping between the sections shown in colored rectangles.      
+Process is a basic programming element in nextflow to run user scripts. It usually have input, output parameters and script section. In this tutorial, you will see necesseary information to define a process shown in the left side of picture below. All that information need to be filled in "Add new process" screen shown in the middle in the picture below. DolphinNext will than convert this information to a nextflow process shown in the right side of the picture. Once a process created, it can be used in the pipeline builder. The example how it looks is shown in bottom left side in the picture. The mapping between the sections shown in colored rectangles.      
 
 <img src="dolphinnext_images/build-processmapping.png" width="100%">
 
