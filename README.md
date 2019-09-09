@@ -285,7 +285,7 @@ You will then proceed by entering run name which will be added to your run list 
 
   **4.** Here, please enter your working directory, choose your "Run Environment", click "Use Singularity Image" and enter the values below;
 ```
-Work Directory: /export/tests/test3
+Work Directory: /export/tests/test1
 Run Environment: Local
 Image Path: dolphinnext/rnaseq:1.0
 Run Options: --bind /export --bind /data
