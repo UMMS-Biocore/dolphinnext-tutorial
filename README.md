@@ -103,6 +103,11 @@ Once logged in, click on the pipeline tab in the top left of the screen to acces
 
 <img src="dolphinnext_images/build1-builderpage.png" width="80%">
 
+**What is process?**
+------------------
+<img src="dolphinnext_images/build-processmapping.png" width="100%">
+
+
 The process we will create in this exercise;
 ---------------
 1. FastQC process
